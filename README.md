@@ -1,1 +1,1 @@
-# np2619_interavtivity.github.io
+# np2619_interactivity.github.io
