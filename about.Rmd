@@ -1,0 +1,12 @@
+---
+title: "About me"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This page is about me
+
+I am taking the class P8105
+
